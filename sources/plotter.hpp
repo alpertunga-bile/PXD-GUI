@@ -1,3 +1,5 @@
+#pragma once
+
 #include "imgui/implot.h"
 
 #include <string_view>
